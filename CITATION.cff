@@ -5,6 +5,7 @@ abstract: "Five Python scripts (standard library only) for preparing mitogenome 
 type: software
 version: 1.0.0
 date-released: 2026-11-24
+doi: "10.5281/zenodo.24510362"
 authors:
   - family-names: Patrick
     given-names: L. Brian

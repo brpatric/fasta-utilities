@@ -1,5 +1,7 @@
 # FASTA Utilities
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24510362.svg)](https://doi.org/10.5281/zenodo.24510362)
+
 Five small Python scripts for preparing mitogenome FASTA files for alignment, from a raw mitogenome to tidy gene files:
 
 | Script | Version | What it does |
@@ -18,7 +20,7 @@ Each script runs on its own, from the IDLE 3.13 shell or the command line.
 
 **Cite as:**
 
-> Patrick, L. B. (2026). *FASTA Utilities: scripts for extracting, combining, renaming, splitting and trimming mitogenome FASTA files* (Version 1.0.0) [Computer software]. https://github.com/brpatric/fasta-utilities
+> Patrick, L. B. (2026). *FASTA Utilities: scripts for extracting, combining, renaming, splitting and trimming mitogenome FASTA files* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24510362
 
 ## Contents
 
@@ -277,9 +279,9 @@ Summary: 13 renamed, 0 skipped (name already used), 1 skipped (not FASTA), 0 err
 
 If you use these scripts, please cite the release as given in [`CITATION.cff`](CITATION.cff) (or with the **Cite this repository** button on this page):
 
-> Patrick, L. B. (2026). *FASTA Utilities: scripts for extracting, combining, renaming, splitting and trimming mitogenome FASTA files* (Version 1.0.0) [Computer software]. https://github.com/brpatric/fasta-utilities
+> Patrick, L. B. (2026). *FASTA Utilities: scripts for extracting, combining, renaming, splitting and trimming mitogenome FASTA files* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24510362
 
-If you use MITOS2 annotations, please cite MITOS2 (Donath et al., 2019). If you use the worked examples, please also cite the sources of their data (Patrick & Santos, 2025; GenBank PV694306).
+The release is archived on [Zenodo](https://doi.org/10.5281/zenodo.24510362). If you use MITOS2 annotations, please cite MITOS2 (Donath et al., 2019). If you use the worked examples, please also cite the sources of their data (Patrick & Santos, 2025; GenBank PV694306).
 
 ## References
 

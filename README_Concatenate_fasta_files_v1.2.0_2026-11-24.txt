@@ -106,11 +106,11 @@ with the Cite this repository button on this page):
 
   Patrick, L. B. (2026). FASTA Utilities: scripts for extracting, combining,
   renaming, splitting and trimming mitogenome FASTA files (Version 1.0.0)
-  [Computer software]. https://github.com/brpatric/fasta-utilities
+  [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24510362
 
-If you use MITOS2 annotations, please cite MITOS2 (Donath et al., 2019). If
-you use the worked examples, please also cite the sources of their data
-(Patrick & Santos, 2025; GenBank PV694306).
+The release is archived on Zenodo. If you use MITOS2 annotations, please cite
+MITOS2 (Donath et al., 2019). If you use the worked examples, please also cite
+the sources of their data (Patrick & Santos, 2025; GenBank PV694306).
 
 References
 
