@@ -122,9 +122,6 @@ of this genome.
   PV694306_MITOS2.bed          the MITOS2 BED file as downloaded from Galaxy (38 features)
   PV694306_MITOS2_edited.txt   the same annotation edited by hand into a gene/start/end/strand table: names cleaned up, the three rrnS parts merged into 12S, and MITOS2's nad5_1 relabelled as trnY (36 features)
 
-In the author's working copy of the edited table, trnM began at 1. It is 0
-here, as in the BED file (see Coordinates above).
-
     cd example/extract
     python3 ../../mito_gene_extractor_v1.6.0_2026-11-24.py input/PV694306.fasta input/PV694306_MITOS2.bed -o output/from_MITOS2_bed -b Alopecosa_albostriata_PV694306
     python3 ../../mito_gene_extractor_v1.6.0_2026-11-24.py input/PV694306.fasta input/PV694306_MITOS2_edited.txt -o output/from_edited_table -b Alopecosa_albostriata_PV694306
