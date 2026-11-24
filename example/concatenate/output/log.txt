@@ -1,0 +1,10 @@
+Concatenate_fasta_files v1.2.0 (2026-11-24)
+  input  : input
+  output : output/COX1.fasta
+
+  Found 3 FASTA file(s) to concatenate:
+    - Alopecosa_albostriata_PV694306_COX1.fasta  (1 record)
+    - Erigone_atra_female_COX1.fasta  (1 record)
+    - Erigone_atra_male_COX1.fasta  (1 record)
+
+Wrote 3 record(s) from 3 file(s) to COX1.fasta.

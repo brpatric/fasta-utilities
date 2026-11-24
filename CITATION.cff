@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you use these scripts, please cite them as below."
-title: "FASTA Utilities: helper scripts for renaming, splitting and trimming FASTA files"
-abstract: "Three small Python scripts for tidying FASTA files: ConvertTextToFasta renames FASTA files saved as .txt after checking they are FASTA; split_major_fastas splits one-file-per-gene FASTA files into one file per gene per specimen; trim_fasta_trailing_whitespace removes trailing whitespace from the end of FASTA files."
+message: "If you use these scripts, please cite the release as below."
+title: "FASTA Utilities: scripts for extracting, combining, renaming, splitting and trimming mitogenome FASTA files"
+abstract: "Five Python scripts (standard library only) for preparing mitogenome FASTA files for alignment: mito_gene_extractor extracts one FASTA file per gene using a MITOS2 annotation; Concatenate_fasta_files combines FASTA files into one multi-FASTA file; ConvertTextToFasta renames FASTA files saved as .txt after checking they are FASTA; split_major_fastas splits one-file-per-gene FASTA files into per-specimen files; trim_fasta_trailing_whitespace removes trailing whitespace from FASTA files."
 type: software
-version: 1.1.0
+version: 1.0.0
 date-released: 2026-11-24
 authors:
   - family-names: Patrick
@@ -18,7 +18,35 @@ keywords:
   - sequence files
   - mitogenome
   - file management
+  - MITOS2
+  - gene extraction
 references:
+  - type: article
+    title: "Improved annotation of protein-coding genes boundaries in metazoan mitochondrial genomes"
+    authors:
+      - family-names: Donath
+        given-names: Alexander
+      - family-names: Jühling
+        given-names: Frank
+      - family-names: Al-Arab
+        given-names: Marwa
+      - family-names: Bernhart
+        given-names: Stephan H.
+      - family-names: Reinhardt
+        given-names: Franziska
+      - family-names: Stadler
+        given-names: Peter F.
+      - family-names: Middendorf
+        given-names: Martin
+      - family-names: Bernt
+        given-names: Matthias
+    journal: "Nucleic Acids Research"
+    year: 2019
+    volume: 47
+    issue: 20
+    start: 10543
+    end: 10552
+    doi: "10.1093/nar/gkz833"
   - type: article
     title: "The complete mitochondrial genome of Erigone atra Blackwall, 1833 (Araneae, Linyphiidae)"
     authors:

@@ -1,0 +1,56 @@
+mito_gene_extractor v1.6.0 (2026-11-24)
+  FASTA      : input/PV694306.fasta
+               PV694306.1 UNVERIFIED: Alopecosa albostriata mitochondrion sequence  (14,397 bp)
+  Annotation : input/PV694306_MITOS2.bed
+               38 feature(s), read as a MITOS2 BED
+  Output     : output/from_MITOS2_bed   (base name: Alopecosa_albostriata_PV694306)
+
+  trnM (trnM(cat))             65 bp  +  0-65  -> Alopecosa_albostriata_PV694306_trnM.fasta
+  ND2 (nad2)                  966 bp  +  46-1012  -> Alopecosa_albostriata_PV694306_ND2.fasta
+  ND5_1 (nad5_1)               78 bp  +  977-1055  -> Alopecosa_albostriata_PV694306_ND5_1.fasta
+  trnW (trnW(tca))             67 bp  +  1007-1074  -> Alopecosa_albostriata_PV694306_trnW.fasta
+  trnC (trnC(gca))             45 bp  -  1093-1138  -> Alopecosa_albostriata_PV694306_trnC.fasta
+  COX1 (cox1)                1542 bp  +  1137-2679  -> Alopecosa_albostriata_PV694306_COX1.fasta
+  COX2 (cox2)                 669 bp  +  2689-3358  -> Alopecosa_albostriata_PV694306_COX2.fasta
+  trnK (trnK(ctt))             54 bp  +  3356-3410  -> Alopecosa_albostriata_PV694306_trnK.fasta
+  trnD (trnD(gtc))             57 bp  +  3400-3457  -> Alopecosa_albostriata_PV694306_trnD.fasta
+  ATP8 (atp8)                 159 bp  +  3449-3608  -> Alopecosa_albostriata_PV694306_ATP8.fasta
+  ATP6 (atp6)                 669 bp  +  3601-4270  -> Alopecosa_albostriata_PV694306_ATP6.fasta
+  COX3 (cox3)                 786 bp  +  4273-5059  -> Alopecosa_albostriata_PV694306_COX3.fasta
+  trnG (trnG(tcc))             55 bp  +  5086-5141  -> Alopecosa_albostriata_PV694306_trnG.fasta
+  ND3 (nad3)                  351 bp  +  5147-5498  -> Alopecosa_albostriata_PV694306_ND3.fasta
+  trnL2 (trnL2(taa))           67 bp  -  5527-5594  -> Alopecosa_albostriata_PV694306_trnL2.fasta
+  trnN (trnN(gtt))             56 bp  +  5597-5653  -> Alopecosa_albostriata_PV694306_trnN.fasta
+  trnS1 (trnS1(gct))           51 bp  +  5686-5737  -> Alopecosa_albostriata_PV694306_trnS1.fasta
+  trnR (trnR(tcg))             76 bp  +  5732-5808  -> Alopecosa_albostriata_PV694306_trnR.fasta
+  trnE (trnE(ttc))             61 bp  +  5777-5838  -> Alopecosa_albostriata_PV694306_trnE.fasta
+  trnF (trnF(gaa))             59 bp  -  5812-5871  -> Alopecosa_albostriata_PV694306_trnF.fasta
+  ND5_0 (nad5_0)             1650 bp  -  5869-7519  -> Alopecosa_albostriata_PV694306_ND5_0.fasta
+  trnH (trnH(gtg))             66 bp  -  7496-7562  -> Alopecosa_albostriata_PV694306_trnH.fasta
+  ND4 (nad4)                 1281 bp  -  7562-8843  -> Alopecosa_albostriata_PV694306_ND4.fasta
+  ND4L (nad4l)                285 bp  -  8796-9081  -> Alopecosa_albostriata_PV694306_ND4L.fasta
+  trnP (trnP(tgg))             54 bp  -  9110-9164  -> Alopecosa_albostriata_PV694306_trnP.fasta
+  ND6 (nad6)                  459 bp  +  9140-9599  -> Alopecosa_albostriata_PV694306_ND6.fasta
+  trnI (trnI(gat))             49 bp  +  9597-9646  -> Alopecosa_albostriata_PV694306_trnI.fasta
+  CytB (cob)                 1101 bp  +  9679-10780  -> Alopecosa_albostriata_PV694306_CytB.fasta
+  trnS2 (trnS2(tga))           54 bp  +  10781-10835  -> Alopecosa_albostriata_PV694306_trnS2.fasta
+  trnT (trnT(tgt))             55 bp  +  10833-10888  -> Alopecosa_albostriata_PV694306_trnT.fasta
+  ND1 (nad1)                  924 bp  -  10878-11802  -> Alopecosa_albostriata_PV694306_ND1.fasta
+  trnL1 (trnL1(tag))           66 bp  -  11783-11849  -> Alopecosa_albostriata_PV694306_trnL1.fasta
+  16S (rrnL)                 1083 bp  -  11813-12896  -> Alopecosa_albostriata_PV694306_16S.fasta
+  trnV (trnV(tac))             50 bp  -  12880-12930  -> Alopecosa_albostriata_PV694306_trnV.fasta
+  12S_0-b (rrnS_0-b)          391 bp  -  12928-13319  -> Alopecosa_albostriata_PV694306_12S_0-b.fasta
+  12S_0-a (rrnS_0-a)           45 bp  -  13326-13371  -> Alopecosa_albostriata_PV694306_12S_0-a.fasta
+  12S_1 (rrnS_1)               50 bp  -  13466-13516  -> Alopecosa_albostriata_PV694306_12S_1.fasta
+  trnQ (trnQ(ttg))             62 bp  -  13619-13681  -> Alopecosa_albostriata_PV694306_trnQ.fasta
+
+=== Summary ===
+  Gene files written: 38
+    protein-coding  14
+    tRNA            20
+    rRNA            4
+
+  Notices (1):
+    - MITOS2 split these genes into parts, each saved as its own file: ND5_1, ND5_0, 12S_0-b, 12S_0-a, 12S_1. Check them, and merge or rename parts in an edited annotation file if needed.
+
+Done. Output folder: output/from_MITOS2_bed
