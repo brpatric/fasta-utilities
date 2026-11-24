@@ -1,0 +1,13 @@
+split_major_fastas v1.1.0 (2026-11-24)
+  input  : my_genes
+  output : by_specimen
+
+  Major FASTA files read : 13
+  Specimen folders       : 2
+  Gene files written     : 26
+
+  Specimen folders:
+    Erigone_atra_female/  (13 genes)
+    Erigone_atra_male/  (13 genes)
+
+Done.

@@ -1,0 +1,7 @@
+Erigone atra mitogenomes used in this example
+
+Male:   GenBank PP726906, voucher P6A 5581
+Female: GenBank PP726907, voucher P6A 5580
+Source: Patrick & Santos (2025), Mitochondrial DNA Part B 10(12): 1243-1248
+
+This file is not FASTA, so ConvertTextToFasta leaves it alone.

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite them as below."
+title: "FASTA Utilities: helper scripts for renaming, splitting and trimming FASTA files"
+abstract: "Three small Python scripts for tidying FASTA files: ConvertTextToFasta renames FASTA files saved as .txt after checking they are FASTA; split_major_fastas splits one-file-per-gene FASTA files into one file per gene per specimen; trim_fasta_trailing_whitespace removes trailing whitespace from the end of FASTA files."
+type: software
+version: 1.1.0
+date-released: 2026-11-24
+authors:
+  - family-names: Patrick
+    given-names: L. Brian
+    affiliation: "Department of Biological Sciences, Dakota Wesleyan University, Mitchell, SD, USA"
+    orcid: "https://orcid.org/0000-0003-1969-9600"
+repository-code: "https://github.com/brpatric/fasta-utilities"
+license: MIT
+keywords:
+  - FASTA
+  - bioinformatics
+  - sequence files
+  - mitogenome
+  - file management
+references:
+  - type: article
+    title: "The complete mitochondrial genome of Erigone atra Blackwall, 1833 (Araneae, Linyphiidae)"
+    authors:
+      - family-names: Patrick
+        given-names: L. Brian
+      - family-names: Santos
+        given-names: Scott R.
+    journal: "Mitochondrial DNA Part B"
+    year: 2025
+    volume: 10
+    issue: 12
+    start: 1243
+    end: 1248
+    doi: "10.1080/23802359.2025.2594297"

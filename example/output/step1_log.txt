@@ -1,0 +1,20 @@
+ConvertTextToFasta v1.1.0 (2026-11-24)
+  folder : my_genes
+  Found 14 .txt file(s).
+
+  [RENAMED] ATP6.txt -> ATP6.fasta
+  [RENAMED] ATP8.txt -> ATP8.fasta
+  [RENAMED] COX1.txt -> COX1.fasta
+  [RENAMED] COX2.txt -> COX2.fasta
+  [RENAMED] COX3.txt -> COX3.fasta
+  [RENAMED] CYTB.txt -> CYTB.fasta
+  [RENAMED] ND1.txt -> ND1.fasta
+  [RENAMED] ND2.txt -> ND2.fasta
+  [RENAMED] ND3.txt -> ND3.fasta
+  [RENAMED] ND4.txt -> ND4.fasta
+  [RENAMED] ND4L.txt -> ND4L.fasta
+  [RENAMED] ND5.txt -> ND5.fasta
+  [RENAMED] ND6.txt -> ND6.fasta
+  [SKIPPED] Notes_on_specimens.txt: not FASTA (first line does not start with '>')
+
+Summary: 13 renamed, 0 skipped (name already used), 1 skipped (not FASTA), 0 error(s).

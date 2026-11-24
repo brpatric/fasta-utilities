@@ -1,0 +1,33 @@
+trim_fasta_trailing_whitespace v1.1.0 (2026-11-24)
+  folder : by_specimen  (and sub-folders)
+  ending : no final line ending
+  Found 26 FASTA file(s).
+
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ATP6.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ATP8.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_COX1.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_COX2.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_COX3.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_CYTB.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ND1.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ND2.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ND3.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ND4.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ND4L.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ND5.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_female/Erigone_atra_female_ND6.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ATP6.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ATP8.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_COX1.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_COX2.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_COX3.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_CYTB.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ND1.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ND2.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ND3.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ND4.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ND4L.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ND5.fasta - removed 1 trailing byte(s).
+  [MODIFIED] Erigone_atra_male/Erigone_atra_male_ND6.fasta - removed 1 trailing byte(s).
+
+Summary: 26 modified, 0 unchanged, 0 error(s).
